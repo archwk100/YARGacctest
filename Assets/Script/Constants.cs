@@ -2,7 +2,7 @@ using YARG.Data;
 
 namespace YARG {
 	public static class Constants {
-		public static readonly YargVersion VERSION_TAG = YargVersion.Parse("v9-Acc-Test");
+		public static readonly YargVersion VERSION_TAG = YargVersion.Parse("v0.10.0b");
 
 		public const float HIT_MARGIN = 0.075f;
 		public const float HIT_MARGIN_PERFECT = 0.36f;
